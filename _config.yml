@@ -62,4 +62,6 @@ theme: vivia
 archive_generator:
   per_page: 0
 deploy:
-  type: ''
+  type: git
+  repo: 
+    github: https://github.com/drfengyu/homeindex.git,main
