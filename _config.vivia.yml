@@ -8,7 +8,7 @@ rss: /atom.xml
 home:
   style: default           # default, detail
 
-favicon: favicon.ico                  # Path to the custom favicon relative to /source (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
+favicon: favicon.jpg                  # Path to the custom favicon relative to /source (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
 
 # Banner
 banner:
@@ -24,7 +24,7 @@ hue: 250                         # The hue of the theme color (e.g. red: 0, oran
 # Personal info
 avatar: favicon.ico                             # Path to the avatar image relative to /source
 author: Shallow Dream Breeze Ling
-subtitle: 世界充满了学习
+subtitle: 最新的导航页,AI,GPT发布页,浏览器收藏+书签不迷路.
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
@@ -44,8 +44,8 @@ sidebar:
     sticky:                # Stick to the top of the page
       - category
       - tag
-#      - archive
-#      - recent_posts
+      - archive
+      - recent_posts
 
 # Sidebar Widget behavior
 archive_type: 'monthly'

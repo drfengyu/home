@@ -1,9 +1,9 @@
-title: Hexo
+title: 海边的橘座
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: Drfengling
+language: zh
 timezone: ''
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
@@ -14,8 +14,8 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
 category_dir: categories
+archive_dir: archives
 code_dir: downloads/code
 i18n_dir: ':lang'
 skip_render: null
